@@ -26,10 +26,4 @@ The Labharthi Checklist Survey Management project was developed for Pace Consult
 
 
 ### Contributors:
-![Parth Prajapati](https://www.linkedin.com/in/parth-prajapati-5a7000185)
-
-
-
-
-
-
+[Parth Prajapati](https://www.linkedin.com/in/parth-prajapati-5a7000185)

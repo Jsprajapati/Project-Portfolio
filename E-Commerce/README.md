@@ -31,4 +31,4 @@
 ![Profile](./Profile.png)
 
 ### Contributors
-- ![Ravi Prajapati](https://www.linkedin.com/in/raviprajapati14)
+- [Ravi Prajapati](https://www.linkedin.com/in/raviprajapati14)
