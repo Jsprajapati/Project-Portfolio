@@ -15,8 +15,7 @@ Developed a platform for a non-profit foundation focused on educating orphans an
 
 ### Walkthrough
 #### Frontend
-https://github.com/user-attachments/assets/f2880f08-630c-48d3-8073-31d456c440c9
-
+https://github.com/user-attachments/assets/78a4a2a3-51bf-4f6f-babe-b0f3f5b26d30
 
 #### Backend
 https://github.com/user-attachments/assets/33c1a7ce-ed2d-4b49-afd4-c3fac9413b12
