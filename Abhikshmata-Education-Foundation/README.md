@@ -1,17 +1,17 @@
 # Abhikshamta
 
 ### Description
-A brief overview of what this project is and what it does.
+Developed a platform for a non-profit foundation focused on educating orphans and underprivileged children.
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Donation management system.
+- User-friendly admin dashboard for content management.
+- Responsive design based on Adobe XD prototypes.
 
 ### Technologies Used
-- Python, Flask
-- Bootstrap
-- SQLite
+- PHP
+- Mysql
+- BS4, Ajax, JQuery
 
 ### Walkthrough
 #### Frontend
