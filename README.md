@@ -34,8 +34,7 @@ E-commerce platform for selling customized Kankotri, invitation cards, and gift 
 ---
 
 ### [Auto Question Paper Generation System](./Auto-Question-Paper-Generation-System)
-End-to-end e-commerce solution for a client, incorporating product management, order tracking, and inventory systems.
-
+Question paper generation system.
 TODO
 
 ---
